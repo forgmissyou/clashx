@@ -1,8 +1,10 @@
 payload:
+  - DOMAIN-SUFFIX,1drv.com
   - DOMAIN-SUFFIX,aadrm.com
   - DOMAIN-SUFFIX,acompli.com
   - DOMAIN-SUFFIX,acompli.net
   - DOMAIN-SUFFIX,aka.ms
+  - DOMAIN-SUFFIX,appcenter.ms
   - DOMAIN-SUFFIX,aspnetcdn.com
   - DOMAIN-SUFFIX,assets-yammer.com
   - DOMAIN-SUFFIX,azure.com
@@ -39,6 +41,7 @@ payload:
   - DOMAIN-SUFFIX,office365.com
   - DOMAIN-SUFFIX,officeppe.net
   - DOMAIN-SUFFIX,omniroot.com
+  - DOMAIN-SUFFIX,onedrive.com
   - DOMAIN-SUFFIX,onenote.com
   - DOMAIN-SUFFIX,onenote.net
   - DOMAIN-SUFFIX,onestore.ms
