@@ -1,0 +1,4 @@
+payload:
+  - DOMAIN,lookup-api.apple.com
+  - DOMAIN,testflight.apple.com
+  - DOMAIN-SUFFIX,smoot.apple.com
