@@ -1,0 +1,51 @@
+
+payload:
+  
+  - DOMAIN,bgp.he.net
+  - DOMAIN,blog.wateroot.com
+  - DOMAIN,rss.newsify.co
+  - DOMAIN,search.avira.com
+  - DOMAIN,us.weibo.com
+  - DOMAIN,www.suavetech.com
+   
+  - DOMAIN,www.iavnight.com
+  - DOMAIN-SUFFIX,liveviptv.xyz
+  - DOMAIN-SUFFIX,qqj68.com
+  - DOMAIN-SUFFIX,umei.fun
+  - DOMAIN-SUFFIX,xsnvshen.com
+  
+  - DOMAIN-SUFFIX,aia.com
+  - DOMAIN-SUFFIX,aia.com.hk
+  - DOMAIN-SUFFIX,aiaprod.appgreen.com
+  - DOMAIN-SUFFIX,aiacdnprod.4d.com.hk
+  
+  - DOMAIN-SUFFIX,dubox.com
+  - DOMAIN-SUFFIX,duboxcdn.com
+   
+  - DOMAIN,clubhouse.pubnub.com
+  - DOMAIN-SUFFIX,clubhouseapi.com
+  - DOMAIN-SUFFIX,joinclubhouse.com
+  
+  - DOMAIN-SUFFIX,64memo.com
+  - DOMAIN-SUFFIX,cloud.andrewjr.wang
+  - DOMAIN-SUFFIX,cloudcone.com.cn
+  - DOMAIN-SUFFIX,code.jquery.com
+  - DOMAIN-SUFFIX,dlink.za.group
+  - DOMAIN-SUFFIX,feed43.com
+  - DOMAIN-SUFFIX,geacron.com
+  - DOMAIN-SUFFIX,gitbook.com
+  - DOMAIN-SUFFIX,gitbook.io
+  - DOMAIN-SUFFIX,hkinsu.com
+  - DOMAIN-SUFFIX,inkbunny.net
+  - DOMAIN-SUFFIX,mangakakalot.com
+  - DOMAIN-SUFFIX,metapix.net
+  - DOMAIN-SUFFIX,ntdimg.com
+  - DOMAIN-SUFFIX,shopeemobile.com
+  - DOMAIN-SUFFIX,sinatra.ishowsapp.com
+  - DOMAIN-SUFFIX,t.cn
+  - DOMAIN-SUFFIX,thenationalpulse.com
+  - DOMAIN-SUFFIX,tingtalk.me
+  - DOMAIN-SUFFIX,translatetheweb.com
+  - DOMAIN-SUFFIX,ultrareach.com
+  - DOMAIN-SUFFIX,ultrasurf.us
+  - DOMAIN-SUFFIX,weebly.com
