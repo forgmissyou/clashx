@@ -1,8 +1,8 @@
-
 payload:
   
   - DOMAIN,bgp.he.net
   - DOMAIN,blog.wateroot.com
+  - DOMAIN,cutt.ly
   - DOMAIN,rss.newsify.co
   - DOMAIN,search.avira.com
   - DOMAIN,us.weibo.com
