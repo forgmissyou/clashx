@@ -1,0 +1,5 @@
+payload:
+  # OneDrive
+  - DOMAIN-SUFFIX,1drv.com
+  - DOMAIN-SUFFIX,onedrive.com
+  - DOMAIN,oneclient.sfx.ms
