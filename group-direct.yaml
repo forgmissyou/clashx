@@ -1,0 +1,74 @@
+payload:
+  - DOMAIN,images-cn.ssl-images-amazon.com
+
+  - DOMAIN,nrch.culture.tw
+
+# Google
+  - DOMAIN-SUFFIX,app-measurement.com
+  - DOMAIN-SUFFIX,recaptcha.net
+
+  - DOMAIN,gtm.oasisfeng.com
+  - DOMAIN,cn.gravatar.com
+
+  - DOMAIN,checkin.gstatic.com
+  - DOMAIN,connectivitycheck.gstatic.com
+  - DOMAIN,csi.gstatic.com
+  - DOMAIN,fonts.gstatic.com
+  - DOMAIN,ssl.gstatic.com
+  - DOMAIN,www.gstatic.com
+
+  - DOMAIN,redirector.gvt1.com
+  - DOMAIN,beacons.gcp.gvt2.com
+  - DOMAIN,beacons.gvt2.com
+  - DOMAIN,beacons3.gvt2.com
+
+  - DOMAIN,crl.pki.goog
+  - DOMAIN,ocsp.pki.goog
+
+  - DOMAIN,translate.google.cn
+
+  - DOMAIN,c.android.clients.google.com
+  - DOMAIN,cache.pack.google.com
+  - DOMAIN,corp.google.com
+  - DOMAIN,dl.l.google.com
+  - DOMAIN,dl.google.com
+  - DOMAIN,kh.google.com
+  - DOMAIN,khm.google.com
+  - DOMAIN,khm0.google.com
+  - DOMAIN,khm1.google.com
+  - DOMAIN,khm2.google.com
+  - DOMAIN,khm3.google.com
+  - DOMAIN,khmdb.google.com
+  - DOMAIN,mtalk.google.com
+  - DOMAIN,alt1-mtalk.google.com
+  - DOMAIN,alt2-mtalk.google.com
+  - DOMAIN,alt3-mtalk.google.com
+  - DOMAIN,alt4-mtalk.google.com
+  - DOMAIN,alt5-mtalk.google.com
+  - DOMAIN,alt6-mtalk.google.com
+  - DOMAIN,alt7-mtalk.google.com
+  - DOMAIN,alt8-mtalk.google.com
+  - DOMAIN,pagead-googlehosted.l.google.com
+  - DOMAIN,safebrowsing-cache.google.com
+  - DOMAIN,ssl-google-analytics.l.google.com
+  - DOMAIN,toolbarqueries.google.com
+  - DOMAIN,tools.google.com
+  - DOMAIN,tools.l.google.com
+  - DOMAIN,www-googletagmanager.l.google.com
+
+  - DOMAIN,clientservices.googleapis.com
+  - DOMAIN,fonts.googleapis.com
+  - DOMAIN,imasdk.googleapis.com
+  - DOMAIN,khm.googleapis.com
+  - DOMAIN,khm0.googleapis.com
+  - DOMAIN,khm1.googleapis.com
+  - DOMAIN,khm2.googleapis.com
+  - DOMAIN,khm3.googleapis.com
+  - DOMAIN,khmdb.googleapis.com
+  - DOMAIN,safebrowsing.googleapis.com
+  - DOMAIN,storage.googleapis.com
+# - DOMAIN,translate.googleapis.com
+  - DOMAIN,update.googleapis.com
+
+  - DOMAIN-SUFFIX,googleanalytics.com
+  - DOMAIN-SUFFIX,googletraveladservices.com
