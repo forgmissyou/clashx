@@ -1,0 +1,16 @@
+  payload:
+  - DOMAIN,app.adjust.com
+
+  - DOMAIN,bdtj.tagtic.cn
+
+  - DOMAIN,log.mmstat.com
+  - DOMAIN,sycm.mmstat.com
+
+  - DOMAIN,analytics.strava.com
+
+  - DOMAIN,fairplay.l.qq.com
+  - DOMAIN,livew.l.qq.com
+  - DOMAIN,vd.l.qq.com
+
+  - DOMAIN,msg.umeng.com
+  - DOMAIN,msg.umengcloud.com
