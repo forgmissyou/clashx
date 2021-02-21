@@ -18,6 +18,7 @@ payload:
   - DOMAIN-SUFFIX,aia.com.hk
   - DOMAIN-SUFFIX,aiaprod.appgreen.com
   - DOMAIN-SUFFIX,aiacdnprod.4d.com.hk
+  - DOMAIN-SUFFIX,cvent.com
   
   - DOMAIN-SUFFIX,dubox.com
   - DOMAIN-SUFFIX,duboxcdn.com
@@ -26,12 +27,15 @@ payload:
   - DOMAIN-SUFFIX,clubhouseapi.com
   - DOMAIN-SUFFIX,joinclubhouse.com
   
+  - DOMAIN-SUFFIX,jinkela.site
+  
   - DOMAIN-SUFFIX,64memo.com
   - DOMAIN-SUFFIX,cloud.andrewjr.wang
   - DOMAIN-SUFFIX,cloudcone.com.cn
   - DOMAIN-SUFFIX,code.jquery.com
   - DOMAIN-SUFFIX,dlink.za.group
   - DOMAIN-SUFFIX,feed43.com
+  - DOMAIN-SUFFIX,flurry.com
   - DOMAIN-SUFFIX,geacron.com
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,gitbook.io
