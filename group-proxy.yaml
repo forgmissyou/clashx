@@ -1,5 +1,7 @@
 payload:
   
+  - DOMAIN-KEYWORD,jinkela
+
   - DOMAIN,bgp.he.net
   - DOMAIN,blog.wateroot.com
   - DOMAIN,cutt.ly
@@ -15,12 +17,6 @@ payload:
   - DOMAIN-SUFFIX,umei.fun
   - DOMAIN-SUFFIX,xsnvshen.com
   
-  - DOMAIN-SUFFIX,aia.com
-  - DOMAIN-SUFFIX,aia.com.hk
-  - DOMAIN-SUFFIX,aiaprod.appgreen.com
-  - DOMAIN-SUFFIX,aiacdnprod.4d.com.hk
-  - DOMAIN-SUFFIX,cvent.com
-  
   - DOMAIN-SUFFIX,dubox.com
   - DOMAIN-SUFFIX,duboxcdn.com
    
@@ -28,11 +24,10 @@ payload:
   - DOMAIN-SUFFIX,clubhouseapi.com
   - DOMAIN-SUFFIX,joinclubhouse.com
   
-  - DOMAIN-SUFFIX,jinkela.wtf
-  
   - DOMAIN-SUFFIX,64memo.com
   - DOMAIN-SUFFIX,cloud.andrewjr.wang
   - DOMAIN-SUFFIX,cloudcone.com.cn
+  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,code.jquery.com
   - DOMAIN-SUFFIX,dlink.za.group
   - DOMAIN-SUFFIX,feed43.com
