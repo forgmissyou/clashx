@@ -2,21 +2,33 @@ payload:
   
   - DOMAIN-KEYWORD,jinkela
 
-  - DOMAIN,bgp.he.net
   - DOMAIN,blog.wateroot.com
   - DOMAIN,cutt.ly
-  - DOMAIN,www.moneyhero.com.hk
-  - DOMAIN,rss.newsify.co
+  - DOMAIN,i.loli.net
   - DOMAIN,search.avira.com
   - DOMAIN,us.weibo.com
   - DOMAIN,www.suavetech.com
    
   - DOMAIN,www.iavnight.com
+  
+  - DOMAIN-KEYWORD,91p
+
   - DOMAIN-SUFFIX,liveviptv.xyz
+  - DOMAIN-SUFFIX,mdapp1.pw
   - DOMAIN-SUFFIX,qqj68.com
   - DOMAIN-SUFFIX,umei.fun
   - DOMAIN-SUFFIX,xsnvshen.com
-  
+  - DOMAIN-SUFFIX,xsnvshen.net
+
+  - DOMAIN-SUFFIX,luoimg.com
+  - DOMAIN-SUFFIX,smmimg.com
+
+  - DOMAIN-SUFFIX,cydia.angelxwind.net
+  - DOMAIN-SUFFIX,getdelta.co
+  - DOMAIN-SUFFIX,hackyouriphone.org
+  - DOMAIN-SUFFIX,ryleyangus.com
+  - DOMAIN-SUFFIX,thebigboss.org
+
   - DOMAIN-SUFFIX,dubox.com
   - DOMAIN-SUFFIX,duboxcdn.com
    
@@ -25,27 +37,39 @@ payload:
   - DOMAIN-SUFFIX,joinclubhouse.com
   
   - DOMAIN-SUFFIX,64memo.com
+  - DOMAIN-SUFFIX,androidcentral.com
+  - DOMAIN-SUFFIX,appsliced.co
+  - DOMAIN-SUFFIX,bochk.com
   - DOMAIN-SUFFIX,cloud.andrewjr.wang
   - DOMAIN-SUFFIX,cloudcone.com.cn
   - DOMAIN-SUFFIX,cloudflare.com
+  - DOMAIN-SUFFIX,club.topsage.com
   - DOMAIN-SUFFIX,code.jquery.com
+  - DOMAIN-SUFFIX,digitpatrox.com
+  - DOMAIN-SUFFIX,disquscdn.com
   - DOMAIN-SUFFIX,dlink.za.group
   - DOMAIN-SUFFIX,feed43.com
   - DOMAIN-SUFFIX,flurry.com
+  - DOMAIN-SUFFIX,ft.com
   - DOMAIN-SUFFIX,geacron.com
   - DOMAIN-SUFFIX,gitbook.com
   - DOMAIN-SUFFIX,gitbook.io
-  - DOMAIN-SUFFIX,hkinsu.com
-  - DOMAIN-SUFFIX,inkbunny.net
-  - DOMAIN-SUFFIX,mangakakalot.com
+  - DOMAIN-SUFFIX,kouwobb.com
   - DOMAIN-SUFFIX,metapix.net
   - DOMAIN-SUFFIX,ntdimg.com
-  - DOMAIN-SUFFIX,shopeemobile.com
+  - DOMAIN-SUFFIX,ptwxz.com
+  - DOMAIN-SUFFIX,pysmei.com
+  - DOMAIN-SUFFIX,rsc.cdn77.org.com
   - DOMAIN-SUFFIX,sinatra.ishowsapp.com
   - DOMAIN-SUFFIX,t.cn
+  - DOMAIN-SUFFIX,theappstore.org
   - DOMAIN-SUFFIX,thenationalpulse.com
   - DOMAIN-SUFFIX,tingtalk.me
   - DOMAIN-SUFFIX,translatetheweb.com
   - DOMAIN-SUFFIX,ultrareach.com
   - DOMAIN-SUFFIX,ultrasurf.us
+  - DOMAIN-SUFFIX,voovmeeting.com
   - DOMAIN-SUFFIX,weebly.com
+  - DOMAIN-SUFFIX,wemp.app
+  - DOMAIN-SUFFIX,wucuoxs.com
+  - DOMAIN-SUFFIX,zh.z-lib.org
