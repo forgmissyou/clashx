@@ -1,6 +1,7 @@
 payload: 
   - DOMAIN-SUFFIX,aia.com
   - DOMAIN-SUFFIX,aia.com.hk
+  - DOMAIN-SUFFIX,aiagroup.sc.omtrdc.net
   - DOMAIN-SUFFIX,aiaprod.appgreen.com
   - DOMAIN-SUFFIX,aiacdnprod.4d.com.hk
   - DOMAIN-SUFFIX,cvent.com
