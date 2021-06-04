@@ -3,3 +3,4 @@ payload:
   - DOMAIN,testflight.apple.com
   - DOMAIN-SUFFIX,apple.comscoreresearch.com
   - DOMAIN-SUFFIX,smoot.apple.com
+  - DOMAIN-SUFFIX,safebrowsing.apple
