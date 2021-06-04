@@ -2,3 +2,4 @@ payload:
   - DOMAIN-SUFFIX,hk.msn.com
   - DOMAIN-SUFFIX,msn.com.tw
   - DOMAIN,www.bing.com
+  - DOMAIN,jdsharedresourcescdn.azureedge.net
